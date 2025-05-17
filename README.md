@@ -26,8 +26,8 @@ Edit `plugins/HerobrinePowers/config.yml` to tweak durations and effects.
 | `herobrine.summon`            | `op`    |
 | `herobrine.revoke`            | `op`    |
 
-## 🤝 Contributing
-*(Same as above.)*
+## 🤝 Donate
+UPI - satwikg@fam
 
 ## 📄 License
 Apache 2.0
