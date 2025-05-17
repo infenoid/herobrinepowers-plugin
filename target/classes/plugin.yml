@@ -1,0 +1,10 @@
+name: herobrinepowers
+version: '1.0'
+main: org.example.test.HerobrinePowers
+api-version: '1.21'
+owner: xeeClown
+commands:
+    herobrine:
+        description: Herobrine Powers Command
+        usage: /herobrine <on/off>
+        permission: herobrinepowers.use
