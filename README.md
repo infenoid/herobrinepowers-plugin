@@ -17,6 +17,9 @@ Gives the player himshelf Herobrine powers.
 /herobrine
 Removes Herobrine powers immediately.
 
+## 🔧 Configuration
+Edit `plugins/HerobrinePowers/config.yml` to tweak durations and effects.
+
 ## 🔒 Permissions
 | Node                          | Default |
 |-------------------------------|:-------:|
@@ -28,5 +31,6 @@ Removes Herobrine powers immediately.
 
 ## 📄 License
 Apache 2.0
+
 
 
